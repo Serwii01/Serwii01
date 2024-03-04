@@ -1,16 +1,37 @@
-### Hi there 👋
+<h1 align="left">Hola👋</h1>
 
-<!--
-**Serwii01/Serwii01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Mi nombre es Sergio Fernández and tengo 18 y soy informático.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre mí.</h2>
+
+###
+
+<p align="left">✨ En constante aprendizaje.<br>📚 Estudio CFGM SMR.<br>🎯 Mi meta es ser programador full-stack en una multinacional.</p>
+
+###
+
+<h2 align="left">Programo en:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Sergiioo.fdezz">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Sergiioo.fdezz&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
